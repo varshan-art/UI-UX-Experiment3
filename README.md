@@ -4,21 +4,25 @@
 To Heuristic Evaluation of an Existing Website or App To pick a website and its feature which I will be recreating as a ui ux designer.
 
 ## Algorithm:
-1.Make the Pinterest application.
-2.Display the Pinterest logo/splash screen.
-3.Show the Login/Sign-up screen.
-4.User enters their email address.
-5.Click Continue.
-6.Alternatively, user can select Continue with Google.
-7.If login is successful, open the Home screen.
-8.Display different images/pins in a grid layout.
-9.User can browse and select images.
+1.Open the Grocery Shopping Application.
+2.Display the Home Page.
+3.Show the user's location and product categories.
+4.Display the Search Bar and offers.
+5.User selects a category or searches for a product.
+6.Display the available products.
+7.User selects the required product.
+8.Add the product to the Cart.
+9.Check whether the user wants to add more products.
+10.If Yes, go back to Step 6.
+11.If No, continue to the next step.
+12.Display the items and total amount in the Cart.
+13.User confirms the order and proceeds to checkout.
+14.Select delivery address and payment method.
+15.Place the order successfully.
+16.Display the order confirmation message.
 
 ## Output:
-<img width="360" height="750" alt="image" src="https://github.com/user-attachments/assets/ce452265-86ef-4724-acab-023ee9a5f395" />
-<img width="360" height="750" alt="image" src="https://github.com/user-attachments/assets/fd5b1b3a-5e9b-4ddc-b9d6-056e57eefa8f" />
-<img width="360" height="750" alt="image" src="https://github.com/user-attachments/assets/1f02dbeb-bc53-4a41-9f3f-b02adf16e6a1" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/444fe6f0-3659-4724-8328-3dec59f3f7df" />
+<img width="1535" height="1024" alt="WhatsApp Image 2026-08-28 at 2 46 53 PM" src="https://github.com/user-attachments/assets/7cb877b1-27b3-4b4e-940e-3ad848864d5a" />
 
 ## Result:
 The Heuristic Evaluation of an Existing Website or App is created and verified.
