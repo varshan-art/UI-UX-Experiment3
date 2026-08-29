@@ -5,20 +5,35 @@ To Heuristic Evaluation of an Existing Website or App To pick a website and its 
 
 ## Algorithm:
 1.Open the Grocery Shopping Application.
+
 2.Display the Home Page.
+
 3.Show the user's location and product categories.
+
 4.Display the Search Bar and offers.
+
 5.User selects a category or searches for a product.
+
 6.Display the available products.
+
 7.User selects the required product.
+
 8.Add the product to the Cart.
+
 9.Check whether the user wants to add more products.
+
 10.If Yes, go back to Step 6.
+
 11.If No, continue to the next step.
+
 12.Display the items and total amount in the Cart.
+
 13.User confirms the order and proceeds to checkout.
+
 14.Select delivery address and payment method.
+
 15.Place the order successfully.
+
 16.Display the order confirmation message.
 
 ## Output:
